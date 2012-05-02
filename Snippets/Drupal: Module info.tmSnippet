@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>name = ${1:Module Name}
+description = ${2:Description}
+package = ${3:package}
+core = 7.x
+$0
+</string>
+	<key>name</key>
+	<string>Drupal: Module info</string>
+	<key>scope</key>
+	<string>source.info</string>
+	<key>tabTrigger</key>
+	<string>info</string>
+	<key>uuid</key>
+	<string>A6068002-08BD-445E-9463-7D7C3D50EC35</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Drupal Module Info</string>
+	<key>ordering</key>
+	<array>
+		<string>A6068002-08BD-445E-9463-7D7C3D50EC35</string>
+		<string>CD9E24E1-C304-476F-82FF-600C0285FCDD</string>
+		<string>7CD0123E-D71D-4873-822C-F85ED389ADE7</string>
+	</array>
+	<key>uuid</key>
+	<string>0955639B-E89F-412A-B3E7-33A36C27B0D8</string>
+</dict>
+</plist>

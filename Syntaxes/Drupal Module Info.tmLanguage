@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>info</string>
+	</array>
+	<key>name</key>
+	<string>Drupal Module Info</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>^(\.+)\s*=</string>
+			<key>name</key>
+			<string>meta.key</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.info</string>
+	<key>uuid</key>
+	<string>7CD0123E-D71D-4873-822C-F85ED389ADE7</string>
+</dict>
+</plist>
